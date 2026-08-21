@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer AI Scan Reticle brackets -->
+    <path
+        android:pathData="M34,44 L34,36 A4,4 0 0,1 38,32 L46,32"
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M74,44 L74,36 A4,4 0 0,0 70,32 L62,32"
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M34,64 L34,72 A4,4 0 0,0 38,76 L46,76"
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M74,64 L74,72 A4,4 0 0,1 70,76 L62,76"
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+
+    <!-- Healthy Apple / Bowl Base -->
+    <path
+        android:pathData="M44,48 C37,48 36,56 38,64 C40,71 47,76 54,76 C61,76 68,71 70,64 C72,56 71,48 64,48 C59,48 55.5,52 54,52 C52.5,52 49,48 44,48 Z"
+        android:fillColor="#10B981" />
+
+    <!-- Leaf on top -->
+    <path
+        android:pathData="M54,49 C54,43 59,38 65,37 C65,43 60,48 54,49 Z"
+        android:fillColor="#FBBF24" />
+
+    <!-- AI Sparkle / Star in top-right -->
+    <path
+        android:pathData="M71,39 L72.5,43 L76.5,44.5 L72.5,46 L71,50 L69.5,46 L65.5,44.5 L69.5,43 Z"
+        android:fillColor="#FFFFFF" />
+</vector>
